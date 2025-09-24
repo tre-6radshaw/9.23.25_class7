@@ -1,0 +1,5 @@
+Learned Git Bash app
+	Start > Git Bash
+	Right click in desired folder > Git bash here
+Went over basic unix CLI navigation commands like cd, ls, ..
+Went over 'touch' to create files and 'rm' to remove files
